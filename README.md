@@ -1,6 +1,7 @@
 <h1 style="font-weight:bold; text-align: center; margin: 0px; font-size: 30px; padding:0px;">Bachelorarbeit: Operatorausbreitung in zufälligen Quantenschaltkreisen</h1>
 Auf dieser Webseite ist der gesamte Code zu finden, welcher für die Bachelorarbeit verwendet wurden. Alle generierten Daten die mit dem Code erzeugt und in der Bachelorarbeit verwendet wurden sind hier zu finden.
 
+
 Der Ordner **Random_Circuit_Model** beinhaltet folgende Datein:
 - Analytische_Ergebnisse_final.ipynb, ist das Jupyter Notebook in dem die Abbildungen für Abschnitt 5.2 der Bachelorarbeit erzeugt wurden.
 - Random_circuit_model_final.ipynb, ist das Jupyter Notebook in dem der Code zur Simulation der Operatorausbreitung im zufälligen Quantenschaltkreis geschrieben wurde. Das Notebook enthält eine detaillierte Beschreibung des Codes.
